@@ -1,0 +1,5 @@
+C:\Users\Valio\Desktop\s\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\Valio\Desktop\s\bin\Debug\RPG.exe
+C:\Users\Valio\Desktop\s\bin\Debug\RPG.pdb
+C:\Users\Valio\Desktop\s\obj\x86\Debug\RPG.exe
+C:\Users\Valio\Desktop\s\obj\x86\Debug\RPG.pdb
